@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/cams-02-reunion/static/css/main.7d1dad98.chunk.css",
+    "main.js": "/cams-02-reunion/static/js/main.e0694836.chunk.js",
+    "main.js.map": "/cams-02-reunion/static/js/main.e0694836.chunk.js.map",
+    "runtime-main.js": "/cams-02-reunion/static/js/runtime-main.123cb2bc.js",
+    "runtime-main.js.map": "/cams-02-reunion/static/js/runtime-main.123cb2bc.js.map",
+    "static/js/2.27505fc1.chunk.js": "/cams-02-reunion/static/js/2.27505fc1.chunk.js",
+    "static/js/2.27505fc1.chunk.js.map": "/cams-02-reunion/static/js/2.27505fc1.chunk.js.map",
+    "index.html": "/cams-02-reunion/index.html",
+    "precache-manifest.d943743b151d812790bcb30739e36589.js": "/cams-02-reunion/precache-manifest.d943743b151d812790bcb30739e36589.js",
+    "service-worker.js": "/cams-02-reunion/service-worker.js",
+    "static/css/main.7d1dad98.chunk.css.map": "/cams-02-reunion/static/css/main.7d1dad98.chunk.css.map",
+    "static/js/2.27505fc1.chunk.js.LICENSE.txt": "/cams-02-reunion/static/js/2.27505fc1.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/cams-02-reunion/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/cams-02-reunion/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/cams-02-reunion/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/cams-02-reunion/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/cams-02-reunion/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/cams-02-reunion/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/cams-02-reunion/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/cams-02-reunion/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/cams-02-reunion/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/cams-02-reunion/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logo.svg": "/cams-02-reunion/static/media/logo.2810a88b.svg",
+    "static/media/video-placeholder.jpg": "/cams-02-reunion/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.123cb2bc.js",
+    "static/js/2.27505fc1.chunk.js",
+    "static/css/main.7d1dad98.chunk.css",
+    "static/js/main.e0694836.chunk.js"
+  ]
+}
